@@ -1,0 +1,454 @@
+fileFormatVersion: 2
+guid: b0a49a806c974cc4886413f3b237a50e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ragdol256l
+  - first:
+      213: 21300002
+    second: ragdol256l_0
+  - first:
+      213: 21300004
+    second: ragdol256l_1
+  - first:
+      213: 21300006
+    second: ragdol256l_2
+  - first:
+      213: 21300008
+    second: ragdol256l_3
+  - first:
+      213: 21300010
+    second: ragdol256l_4
+  - first:
+      213: 21300012
+    second: ragdol256l_5
+  - first:
+      213: 21300014
+    second: ragdol256l_6
+  - first:
+      213: 21300016
+    second: ragdol256l_7
+  - first:
+      213: 21300018
+    second: ragdol256l_8
+  - first:
+      213: 21300020
+    second: ragdol256l_9
+  - first:
+      213: 21300022
+    second: ragdol256l_10
+  - first:
+      213: 21300024
+    second: ragdol256l_11
+  - first:
+      213: 21300026
+    second: ragdol256l_12
+  - first:
+      213: 21300028
+    second: ragdol256l_13
+  - first:
+      213: 21300030
+    second: ragdol256l_14
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: 1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ragdol256l_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 65
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5193498, y: 0.13315868}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 232
+        width: 39
+        height: 15
+      alignment: 9
+      pivot: {x: 0.2704106, y: 0.57067263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 232
+        width: 32
+        height: 12
+      alignment: 9
+      pivot: {x: 0.1312747, y: 0.46506247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 228
+        width: 28
+        height: 20
+      alignment: 9
+      pivot: {x: 0.11393411, y: 0.46139374}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 200
+        width: 39
+        height: 16
+      alignment: 9
+      pivot: {x: 0.26918343, y: 0.5939541}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 201
+        width: 32
+        height: 11
+      alignment: 9
+      pivot: {x: 0.11393404, y: 0.517549}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_6
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 196
+        width: 28
+        height: 20
+      alignment: 9
+      pivot: {x: 0.12082781, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 130
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0.6732965, y: 0.06391449}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 135
+        width: 42
+        height: 29
+      alignment: 9
+      pivot: {x: 0.6291246, y: 0.74087054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_9
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 125
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: 0.43854558, y: 0.7378652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 127
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.4507309, y: 0.74772537}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 106
+        width: 22
+        height: 54
+      alignment: 9
+      pivot: {x: 0.4999993, y: 0.9256332}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_12
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 83
+        width: 31
+        height: 17
+      alignment: 9
+      pivot: {x: 0.27507266, y: 0.77344066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_13
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 83
+        width: 32
+        height: 17
+      alignment: 9
+      pivot: {x: 0.24982119, y: 0.75824916}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ragdol256l_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 106
+        width: 21
+        height: 55
+      alignment: 9
+      pivot: {x: 0.40734935, y: 0.9085036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
